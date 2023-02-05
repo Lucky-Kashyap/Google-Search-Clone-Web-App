@@ -3,6 +3,10 @@ Simple Google search Clone Web App using React JS and use google api for data fe
 
 
 Project link : https://google-search-web.netlify.app
+
+Project screenshots :   
+
+
 ![Screenshot (1904)](https://user-images.githubusercontent.com/88204554/216819086-572fd520-22b3-4a00-8195-6b2d858988f5.png)
 
 
